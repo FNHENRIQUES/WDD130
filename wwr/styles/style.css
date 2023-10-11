@@ -68,6 +68,7 @@ main section{
 }
 footer{
     background-color: #F3EFE0;
+    text-align: left;
 
 }
 footer p {
@@ -75,4 +76,5 @@ footer p {
 }    
 footer p a:hover {
     text-decoration: underline;
+    
 }    
