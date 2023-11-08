@@ -17,15 +17,15 @@ Fonts are separated by a | */
   --paragraph-font: Lato, Helvetica, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #396E94;  /* headlines on a white background */ 
-  --headline-color-on-color: white; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #396E94  ;
-  --nav-link-color: #396E94;
+  --headline-color-on-white: #3C6997;  /* headlines on a white background */ 
+  --headline-color-on-color: #5ADBFF; /* headlines o  n a colored background */ 
+  --paragraph-color-on-white: #3C6997; /* paragraph text on a white background */ 
+  --paragraph-color-on-color: #5ADBFF; /* paragraph text on a colored background */ 
+  --paragraph-background-color: #094074;
+  --nav-link-color: #094074;
   --nav-background-color: #D4AC0D;
-  --nav-hover-link-color: white;
-  --nav-hover-background-color: #396E94;
+  --nav-hover-link-color: #5ADBFF;
+  --nav-hover-background-color: #3C6997;
 }
 
 
@@ -44,7 +44,7 @@ img {
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: #5ADBFF;
+  color: #094074;
 }
 h2 {
   text-align: center;
@@ -52,7 +52,7 @@ h2 {
 hr {
   height: 3px;
   margin: 35px 0;
-  background: #A42212;
+  background: #5ADBFF;
 }
 header {
   padding: 1em;
@@ -66,7 +66,7 @@ header > h1, header > h2 {
 
 p {
   font-family: Arial, Helvetica, sans-serif;
-  color: lightblue;
+  color: #5ADBFF;
   padding: 1em;
 }
 .colors {
@@ -90,7 +90,7 @@ p {
   background-color: #3C6997;
 }
 .accent1 {
-  background-color: #A42212;
+  background-color: #5ADBFF;
 }
 .accent2{
   background-color: #FFDD4A;
@@ -98,7 +98,7 @@ p {
 
 p.colored {
   background-color: lightgrey;
-  color: lightblue;
+  color: #3C6997;
 }
 
 nav {
@@ -120,7 +120,7 @@ nav a {
 
 }
 nav a:link, nav a:visited {
-  color: lightblue;
+  color: #3C6997;
 }
 nav a:hover {
   color: lightcyan;
