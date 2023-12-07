@@ -6,6 +6,13 @@ body {
     padding: 0; 
 }
 
+table {
+    background-color:#F3EFE0;
+    max-width: 1600px;
+    text-align: center;
+    margin: 0 auto
+}   
+
 header {
     background-color:#F3EFE0;
     text-align: left;
