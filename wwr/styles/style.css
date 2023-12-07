@@ -16,12 +16,12 @@ table {
 #feedback {
     background-color: antiquewhite;
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
+    top: 100px;
+    left: 600px;
+    right: 600px;
     padding: .5em;
     /* make this element invisible until we are ready for it */
-    /*display: none;     */
+    display: inline;
 }
 .moveDown {
     margin-top: 3em;
