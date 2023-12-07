@@ -17,8 +17,8 @@ table {
     background-color: antiquewhite;
     position: absolute;
     top: 100px;
-    left: 600px;
-    right: 600px;
+    left: 20%;
+    right: 20%;
     padding: .5em;
     /* make this element invisible until we are ready for it */
     display: inline;
